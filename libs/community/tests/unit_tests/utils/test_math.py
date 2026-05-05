@@ -1,6 +1,7 @@
 """Test math utility functions."""
 
 import importlib
+import importlib.util
 from typing import List
 
 import numpy as np
