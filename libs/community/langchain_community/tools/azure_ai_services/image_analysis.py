@@ -18,6 +18,7 @@ logger = logging.getLogger(__name__)
 
 @deprecated(
     since="0.4.1",
+    removal="1.0",
     message=(
         "This class is deprecated and will be removed in a future version. "
         "Use AzureAIImageAnalysisTool from the langchain-azure-ai package "
