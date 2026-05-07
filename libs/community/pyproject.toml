@@ -68,7 +68,6 @@ dev = [
     "jupyter>=1.0.0,<2.0.0",
     "setuptools>=67.6.1,<79.0.0",
     "langchain-core",
-    "azure-ai-vision-imageanalysis>=1.0.0",
 ]
 typing = [
     "mypy>=1.17.1,<2.0.0",
